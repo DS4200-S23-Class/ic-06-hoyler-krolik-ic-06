@@ -1,0 +1,17 @@
+line {
+
+    stroke: darkblue;
+    stroke-width: 4;
+
+}
+
+
+/* choose circle color */
+circle {
+    fill: blue;
+}
+
+.green{
+    stroke: green;
+    stroke-width: 4;
+}
